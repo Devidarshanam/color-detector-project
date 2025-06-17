@@ -1,0 +1,256 @@
+name,red,green,blue
+Black,0,0,0
+White,255,255,255
+Red,255,0,0
+Lime,0,255,0
+Blue,0,0,255
+Yellow,255,255,0
+Cyan,0,255,255
+Magenta,255,0,255
+Silver,192,192,192
+Gray,128,128,128
+Maroon,128,0,0
+Olive,128,128,0
+Green,0,128,0
+Purple,128,0,128
+Teal,0,128,128
+Navy,0,0,128
+Orange,255,165,0
+Pink,255,192,203
+Brown,165,42,42
+Gold,255,215,0
+Indigo,75,0,130
+Violet,238,130,238
+Turquoise,64,224,208
+Beige,245,245,220
+Coral,255,127,80
+Crimson,220,20,60
+Tomato,255,99,71
+Khaki,240,230,140
+Lavender,230,230,250
+Orchid,218,112,214
+MintCream,245,255,250
+SlateBlue,106,90,205
+RoyalBlue,65,105,225
+SkyBlue,135,206,235
+LightBlue,173,216,230
+DarkBlue,0,0,139
+DodgerBlue,30,144,255
+DeepSkyBlue,0,191,255
+SteelBlue,70,130,180
+LightSeaGreen,32,178,170
+MediumSeaGreen,60,179,113
+SpringGreen,0,255,127
+SeaGreen,46,139,87
+MediumAquamarine,102,205,170
+Aquamarine,127,255,212
+DarkCyan,0,139,139
+MediumTurquoise,72,209,204
+DarkTurquoise,0,206,209
+Chartreuse,127,255,0
+LawnGreen,124,252,0
+GreenYellow,173,255,47
+DarkOliveGreen,85,107,47
+ForestGreen,34,139,34
+DarkGreen,0,100,0
+MediumPurple,147,112,219
+AliceBlue,240,248,255
+AntiqueWhite,250,235,215
+Azure,240,255,255
+Bisque,255,228,196
+BlanchedAlmond,255,235,205
+BlueViolet,138,43,226
+BurlyWood,222,184,135
+CadetBlue,95,158,160
+Chartreuse,127,255,0
+Chocolate,210,105,30
+CornflowerBlue,100,149,237
+Cornsilk,255,248,220
+DarkGoldenRod,184,134,11
+DarkGray,169,169,169
+DarkKhaki,189,183,107
+DarkMagenta,139,0,139
+DarkOrange,255,140,0
+DarkOrchid,153,50,204
+DarkRed,139,0,0
+DarkSalmon,233,150,122
+DarkSeaGreen,143,188,143
+DarkSlateBlue,72,61,139
+DarkSlateGray,47,79,79
+DarkViolet,148,0,211
+DeepPink,255,20,147
+DimGray,105,105,105
+FireBrick,178,34,34
+FloralWhite,255,250,240
+Gainsboro,220,220,220
+GhostWhite,248,248,255
+GreenYellow,173,255,47
+HoneyDew,240,255,240
+HotPink,255,105,180
+IndianRed,205,92,92
+Ivory,255,255,240
+LawnGreen,124,252,0
+LemonChiffon,255,250,205
+LightCoral,240,128,128
+LightCyan,224,255,255
+LightGoldenRodYellow,250,250,210
+LightGray,211,211,211
+LightGreen,144,238,144
+LightPink,255,182,193
+LightSalmon,255,160,122
+LightSkyBlue,135,206,250
+LightSlateGray,119,136,153
+LightSteelBlue,176,196,222
+Linen,250,240,230
+MediumBlue,0,0,205
+MediumOrchid,186,85,211
+Amaranth,229,43,80
+Aureolin,253,238,0
+B'dazzled Blue,46,88,148
+Beaver,159,129,112
+Bittersweet,254,111,94
+Black Coral,84,98,111
+Blue Yonder,80,114,167
+Brink Pink,251,96,127
+Bronze,205,127,50
+Cambridge Blue,163,193,173
+Caput Mortuum,89,39,32
+Carmine,150,0,24
+Celadon,172,225,175
+Celeste,178,255,255
+Cerise,222,49,99
+Champagne,250,236,204
+Charcoal,54,69,79
+Cinereous,152,129,123
+Coffee,111,78,55
+Coral Pink,248,131,121
+Cosmic Latte,255,248,231
+Cultured,245,245,245
+Dark Byzantium,93,57,84
+Dark Pastel Green,3,192,60
+Deep Champagne,250,214,165
+Deep Space Sparkle,7
+Desert Sand,237,201,175
+Ecru,194,178,128
+Eggplant,97,64,81
+Emerald,80,200,120
+English Lavender,180,131,149
+Erin,0,255,64
+Fern Green,79,121,66
+Fire Opal,233,92,75
+Flame,226,88,34
+Fuzzy Wuzzy,204,102,102
+Gainsboro,220,220,220
+Gamboge,228,155,15
+Grullo,169,154,134
+Halaya Ube,102,56,84
+Heliotrope,223,115,255
+Hollywood Cerise,244,0,161
+Iceberg,113,166,210
+Inchworm,178,236,93
+Jasper,215,59,62
+Jungle Green,41,171,135
+Lapis Lazuli,38,97,156
+Lavender Gray,196,195,208
+Liver,103,76,71
+Mountbatten Pink,153,122,141
+Moonstone Blue,115,169,194
+Naples Yellow,250,218,94
+Neon Carrot,255,163,67
+Old Burgundy,67,48,46
+Outer Space,65,74,76
+Pale Dogwood,237,229,225
+Pale Silver,201,192,187
+Paradise Pink,230,62,98
+Pastel Brown,131,105,83
+Pastel Gray,207,207,196
+Paya,252,180,31
+Periwinkle,204,204,255
+Persian Green,0,166,147
+Phlox,223,0,255
+Piggy Pink,253,221,230
+Platinum,229,228,226
+Princeton Orange,255,143,0
+Quartz,217,217,243
+Raw Sienna,214,138,89
+Raw Umber,130,102,68
+Rose Dust,158,94,101
+Rose Ebony,103,72,70
+Rose Taupe,144,93,93
+Rosy Brown,188,143,143
+Ruby,224,17,95
+Russian Violet,50,23,77
+Safety Orange,255,103,0
+Saffron,244,196,48
+Sage,188,184,138
+Sand Dune,150,113,23
+Sea Green,46,139,87
+Sepia,112,66,20
+Shadow,138,121,93
+Shampoo,255,207,241
+Sienna,136,45,23
+Silver Chalice,172,172,172
+Slate Gray,112,128,144
+Smokey Topaz,147,61,65
+Spanish Gray,152,152,152
+Straw,228,217,111
+Sunset,250,214,165
+Tan,210,180,140
+Tawny,205,87,0
+Tea Green,208,240,192
+Thistle,216,191,216
+Tiffany Blue,10,186,181
+Tomato,255,99,71
+Tumbleweed,222,170,136
+Tuscan Red,124,72,72
+Wisteria,201,160,220
+Acid Green,176,191,26
+African Violet,178,132,190
+Air Superiority Blue,114,160,193
+Alabaster,242,240,230
+Alice Blue,240,248,255
+Antique Brass,205,149,117
+Antique Fuchsia,145,92,131
+Antique Ruby,132,27,45
+Army Green,75,83,32
+Ash Gray,178,190,181
+Azure Mist,240,255,255
+Baby Blue Eyes,161,202,241
+Bakers Chocolate,92,51,23
+Banana Mania,250,231,181
+Battleship Gray,132,132,130
+Bazaar,152,119,123
+Big Dip O’Ruby,156,37,66
+Bisque,255,228,196
+Black Bean,61,12,2
+Bleu De France,49,140,231
+Blond,250,240,190
+Blue Sapphire,18,97,128
+Bole,121,68,59
+Brick Red,203,65,84
+Bright Lilac,216,145,239
+Bright Turquoise,8,232,222
+Burlywood,222,184,135
+Cadet Blue,95,158,160
+Camel,193,154,107
+Cardinal,196,30,58
+Caribbean Green,0,204,153
+Carrot Orange,237,145,33
+Champagne Pink,241,221,207
+Cherry Blossom Pink,255,183,197
+Citrine,228,208,10
+Claret,127,23,52
+Cobalt Blue,0,71,171
+Columbia Blue,155,221,255
+Cool Grey,140,146,172
+Copper Penny,173,111,105
+Cordovan,137,63,69
+Corn,251,236,93
+Cornsilk,255,248,220
+Cyber Grape,88,66,124
+Dark Terra Cotta,204,78,92
+Davy’s Grey,85,85,85
+Denim,21,96,189
+Dirt,155,118,83
+Duke Blue,0,0,156
+Dust Storm,229,204,201
